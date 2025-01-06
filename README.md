@@ -1,6 +1,7 @@
 # Sleep_Lifestyle_Analysis
 
 This project explores the "Insights into Sleep Patterns and Daily Habits" dataset from Kaggle. The primary goal of this beginner-level project is to build familiarity with Python data analysis libraries, including:
+
 Pandas for data manipulation and cleaning.
 Matplotlib and Seaborn for data visualization.
 
